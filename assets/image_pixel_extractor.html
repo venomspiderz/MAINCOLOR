@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: black;
+    }
+    #canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+  <script>
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    let imageWidth = 0;
+    let imageHeight = 0;
+
+    // Handle messages from React Native
+    window.addEventListener('message', function(event) {
+      const data = JSON.parse(event.data);
+      
+      if (data.type === 'image') {
+        loadImage(data.base64, data.width, data.height);
+      } else if (data.type === 'tap') {
+        extractColor(data.x, data.y);
+      }
+    });
+
+    function loadImage(base64, width, height) {
+      const img = new Image();
+      img.onload = function() {
+        imageWidth = width;
+        imageHeight = height;
+        
+        // Set canvas size to match image dimensions
+        canvas.width = width;
+        canvas.height = height;
+        
+        // Draw image on canvas
+        ctx.drawImage(img, 0, 0);
+        
+        // Notify React Native that image is ready
+        window.ReactNativeWebView.postMessage(JSON.stringify({
+          type: 'imageReady'
+        }));
+      };
+      img.src = `data:image/jpeg;base64,${base64}`;
+    }
+
+    function extractColor(x, y) {
+      // Get relative coordinates
+      const rect = canvas.getBoundingClientRect();
+      const scaleX = imageWidth / rect.width;
+      const scaleY = imageHeight / rect.height;
+      
+      const pixelX = Math.floor(x * scaleX);
+      const pixelY = Math.floor(y * scaleY);
+      
+      // Get pixel data
+      const pixel = ctx.getImageData(pixelX, pixelY, 1, 1).data;
+      
+      // Convert to hex
+      const hex = '#' + 
+        ('0' + pixel[0].toString(16)).slice(-2) +
+        ('0' + pixel[1].toString(16)).slice(-2) +
+        ('0' + pixel[2].toString(16)).slice(-2);
+      
+      // Send color back to React Native
+      window.ReactNativeWebView.postMessage(JSON.stringify({
+        type: 'color',
+        hex: hex.toUpperCase()
+      }));
+    }
+
+    // Handle touch events
+    canvas.addEventListener('touchstart', function(e) {
+      e.preventDefault();
+      const touch = e.touches[0];
+      extractColor(touch.clientX, touch.clientY);
+    });
+  </script>
+</body>
+</html>

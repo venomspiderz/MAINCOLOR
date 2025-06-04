@@ -1,0 +1,1096 @@
+{
+  "colors": [
+    {
+      "name": "Pure White",
+      "hex": "#FFFFFF",
+      "lab": { "l": 100.0, "a": 0.0, "b": 0.0 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Black",
+      "hex": "#000000",
+      "lab": { "l": 0.0, "a": 0.0, "b": 0.0 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Red",
+      "hex": "#FF0000",
+      "lab": { "l": 53.2, "a": 80.1, "b": 67.2 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Green",
+      "hex": "#00FF00",
+      "lab": { "l": 87.7, "a": -86.2, "b": 83.2 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Blue",
+      "hex": "#0000FF",
+      "lab": { "l": 32.3, "a": 79.2, "b": -107.9 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Yellow",
+      "hex": "#FFFF00",
+      "lab": { "l": 97.1, "a": -21.6, "b": 94.5 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Cyan",
+      "hex": "#00FFFF",
+      "lab": { "l": 91.1, "a": -48.1, "b": -14.1 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "Pure Magenta",
+      "hex": "#FF00FF",
+      "lab": { "l": 60.3, "a": 98.2, "b": -60.8 },
+      "category": "Basic",
+      "source": "Standard"
+    },
+    {
+      "name": "AliceBlue",
+      "hex": "#F0F8FF",
+      "lab": { "l": 97.2, "a": -1.4, "b": -3.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "AntiqueWhite",
+      "hex": "#FAEBD7",
+      "lab": { "l": 94.6, "a": 2.0, "b": 6.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Aqua",
+      "hex": "#00FFFF",
+      "lab": { "l": 91.1, "a": -48.1, "b": -14.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Aquamarine",
+      "hex": "#7FFFD4",
+      "lab": { "l": 91.0, "a": -35.3, "b": -5.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Azure",
+      "hex": "#F0FFFF",
+      "lab": { "l": 97.4, "a": -0.7, "b": -2.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Beige",
+      "hex": "#F5F5DC",
+      "lab": { "l": 93.9, "a": -0.8, "b": 6.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Bisque",
+      "hex": "#FFE4C4",
+      "lab": { "l": 93.6, "a": 3.8, "b": 22.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Black",
+      "hex": "#000000",
+      "lab": { "l": 0.0, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "BlanchedAlmond",
+      "hex": "#FFEBCD",
+      "lab": { "l": 93.5, "a": 3.1, "b": 23.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Blue",
+      "hex": "#0000FF",
+      "lab": { "l": 32.3, "a": 79.2, "b": -107.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "BlueViolet",
+      "hex": "#8A2BE2",
+      "lab": { "l": 37.8, "a": 71.5, "b": -78.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Brown",
+      "hex": "#A52A2A",
+      "lab": { "l": 41.8, "a": 48.5, "b": 27.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "BurlyWood",
+      "hex": "#DEB887",
+      "lab": { "l": 72.4, "a": 3.6, "b": 31.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "CadetBlue",
+      "hex": "#5F9EA0",
+      "lab": { "l": 60.8, "a": -3.0, "b": -11.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Chartreuse",
+      "hex": "#7FFF00",
+      "lab": { "l": 97.1, "a": -72.6, "b": 78.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Chocolate",
+      "hex": "#D2691E",
+      "lab": { "l": 51.2, "a": 44.8, "b": 44.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Coral",
+      "hex": "#FF7F50",
+      "lab": { "l": 60.2, "a": 45.7, "b": 35.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "CornflowerBlue",
+      "hex": "#6495ED",
+      "lab": { "l": 60.3, "a": 7.0, "b": -54.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Cornsilk",
+      "hex": "#FFF8DC",
+      "lab": { "l": 98.4, "a": 0.3, "b": 7.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Crimson",
+      "hex": "#DC143C",
+      "lab": { "l": 50.1, "a": 65.8, "b": 26.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Cyan",
+      "hex": "#00FFFF",
+      "lab": { "l": 91.1, "a": -48.1, "b": -14.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkBlue",
+      "hex": "#00008B",
+      "lab": { "l": 12.0, "a": 47.6, "b": -64.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkCyan",
+      "hex": "#008B8B",
+      "lab": { "l": 48.5, "a": -28.8, "b": -18.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkGoldenRod",
+      "hex": "#B8860B",
+      "lab": { "l": 55.1, "a": 6.2, "b": 60.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkGray",
+      "hex": "#A9A9A9",
+      "lab": { "l": 74.9, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkGrey",
+      "hex": "#A9A9A9",
+      "lab": { "l": 74.9, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkGreen",
+      "hex": "#006400",
+      "lab": { "l": 46.3, "a": -51.7, "b": 49.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkKhaki",
+      "hex": "#BDB76B",
+      "lab": { "l": 69.7, "a": -4.5, "b": 46.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkMagenta",
+      "hex": "#8B008B",
+      "lab": { "l": 32.3, "a": 69.3, "b": -36.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkOliveGreen",
+      "hex": "#556B2F",
+      "lab": { "l": 44.0, "a": -17.7, "b": 38.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkOrange",
+      "hex": "#FF8C00",
+      "lab": { "l": 65.5, "a": 44.6, "b": 67.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkOrchid",
+      "hex": "#9932CC",
+      "lab": { "l": 48.7, "a": 67.6, "b": -58.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkRed",
+      "hex": "#8B0000",
+      "lab": { "l": 28.1, "a": 51.0, "b": 41.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkSalmon",
+      "hex": "#E9967A",
+      "lab": { "l": 69.9, "a": 28.2, "b": 27.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkSeaGreen",
+      "hex": "#8FBC8F",
+      "lab": { "l": 72.1, "a": -23.8, "b": 18.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkSlateBlue",
+      "hex": "#483D8B",
+      "lab": { "l": 25.0, "a": 6.8, "b": -49.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkSlateGray",
+      "hex": "#2F4F4F",
+      "lab": { "l": 32.8, "a": -6.7, "b": -5.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkSlateGrey",
+      "hex": "#2F4F4F",
+      "lab": { "l": 32.8, "a": -6.7, "b": -5.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkTurquoise",
+      "hex": "#00CED1",
+      "lab": { "l": 73.5, "a": -34.2, "b": -7.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DarkViolet",
+      "hex": "#9400D3",
+      "lab": { "l": 35.2, "a": 84.9, "b": -69.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DeepPink",
+      "hex": "#FF1493",
+      "lab": { "l": 54.4, "a": 74.8, "b": -7.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DeepSkyBlue",
+      "hex": "#00BFFF",
+      "lab": { "l": 72.0, "a": -33.8, "b": -65.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DimGray",
+      "hex": "#696969",
+      "lab": { "l": 44.0, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DimGrey",
+      "hex": "#696969",
+      "lab": { "l": 44.0, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "DodgerBlue",
+      "hex": "#1E90FF",
+      "lab": { "l": 58.9, "a": -2.0, "b": -61.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "FireBrick",
+      "hex": "#B22222",
+      "lab": { "l": 43.1, "a": 49.2, "b": 34.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "FloralWhite",
+      "hex": "#FFFAF0",
+      "lab": { "l": 99.1, "a": -0.3, "b": 3.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "ForestGreen",
+      "hex": "#228B22",
+      "lab": { "l": 46.2, "a": -52.8, "b": 46.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Fuchsia",
+      "hex": "#FF00FF",
+      "lab": { "l": 60.3, "a": 98.2, "b": -60.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Gainsboro",
+      "hex": "#DCDCDC",
+      "lab": { "l": 85.2, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "GhostWhite",
+      "hex": "#F8F8FF",
+      "lab": { "l": 97.2, "a": -0.4, "b": -1.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Gold",
+      "hex": "#FFD700",
+      "lab": { "l": 82.0, "a": 4.7, "b": 88.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "GoldenRod",
+      "hex": "#DAA520",
+      "lab": { "l": 65.9, "a": 3.4, "b": 76.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Gray",
+      "hex": "#808080",
+      "lab": { "l": 53.6, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Grey",
+      "hex": "#808080",
+      "lab": { "l": 53.6, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Green",
+      "hex": "#008000",
+      "lab": { "l": 46.2, "a": -51.6, "b": 49.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "GreenYellow",
+      "hex": "#ADFF2F",
+      "lab": { "l": 92.8, "a": -54.9, "b": 72.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "HoneyDew",
+      "hex": "#F0FFF0",
+      "lab": { "l": 97.9, "a": -0.5, "b": 1.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "HotPink",
+      "hex": "#FF69B4",
+      "lab": { "l": 62.3, "a": 53.9, "b": -2.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "IndianRed",
+      "hex": "#CD5C5C",
+      "lab": { "l": 55.7, "a": 43.8, "b": 28.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Indigo",
+      "hex": "#4B0082",
+      "lab": { "l": 17.0, "a": 46.3, "b": -56.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Ivory",
+      "hex": "#FFFFF0",
+      "lab": { "l": 99.7, "a": -0.1, "b": 1.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Khaki",
+      "hex": "#F0E68C",
+      "lab": { "l": 90.6, "a": -2.6, "b": 46.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Lavender",
+      "hex": "#E6E6FA",
+      "lab": { "l": 91.7, "a": -3.2, "b": -8.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LavenderBlush",
+      "hex": "#FFF0F5",
+      "lab": { "l": 97.8, "a": 1.9, "b": -2.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LawnGreen",
+      "hex": "#7CFC00",
+      "lab": { "l": 91.7, "a": -75.5, "b": 82.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LemonChiffon",
+      "hex": "#FFFACD",
+      "lab": { "l": 98.7, "a": -0.4, "b": 16.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightBlue",
+      "hex": "#ADD8E6",
+      "lab": { "l": 81.0, "a": -5.3, "b": -18.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightCoral",
+      "hex": "#F08080",
+      "lab": { "l": 69.7, "a": 21.5, "b": 15.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightCyan",
+      "hex": "#E0FFFF",
+      "lab": { "l": 93.3, "a": -4.5, "b": -16.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightGoldenRodYellow",
+      "hex": "#FAFAD2",
+      "lab": { "l": 95.9, "a": -0.6, "b": 16.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightGray",
+      "hex": "#D3D3D3",
+      "lab": { "l": 82.3, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightGrey",
+      "hex": "#D3D3D3",
+      "lab": { "l": 82.3, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightGreen",
+      "hex": "#90EE90",
+      "lab": { "l": 91.5, "a": -42.4, "b": 33.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightPink",
+      "hex": "#FFB6C1",
+      "lab": { "l": 84.0, "a": 21.9, "b": -2.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSalmon",
+      "hex": "#FFA07A",
+      "lab": { "l": 77.0, "a": 26.6, "b": 20.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSeaGreen",
+      "hex": "#20B2AA",
+      "lab": { "l": 68.5, "a": -26.6, "b": -6.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSkyBlue",
+      "hex": "#87CEFA",
+      "lab": { "l": 87.6, "a": -3.6, "b": -18.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSlateGray",
+      "hex": "#778899",
+      "lab": { "l": 60.2, "a": -2.5, "b": -7.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSlateGrey",
+      "hex": "#778899",
+      "lab": { "l": 60.2, "a": -2.5, "b": -7.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightSteelBlue",
+      "hex": "#B0C4DE",
+      "lab": { "l": 79.9, "a": -2.2, "b": -9.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LightYellow",
+      "hex": "#FFFFE0",
+      "lab": { "l": 97.7, "a": -0.6, "b": 9.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Lime",
+      "hex": "#00FF00",
+      "lab": { "l": 87.7, "a": -86.2, "b": 83.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "LimeGreen",
+      "hex": "#32CD32",
+      "lab": { "l": 77.0, "a": -49.5, "b": 50.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Linen",
+      "hex": "#FAF0E6",
+      "lab": { "l": 96.7, "a": 1.6, "b": 6.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Magenta",
+      "hex": "#FF00FF",
+      "lab": { "l": 60.3, "a": 98.2, "b": -60.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Maroon",
+      "hex": "#800000",
+      "lab": { "l": 25.5, "a": 57.3, "b": 30.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumAquaMarine",
+      "hex": "#66CDAA",
+      "lab": { "l": 77.7, "a": -37.8, "b": -4.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumBlue",
+      "hex": "#0000CD",
+      "lab": { "l": 39.4, "a": 75.9, "b": -105.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumOrchid",
+      "hex": "#BA55D3",
+      "lab": { "l": 53.2, "a": 67.9, "b": -36.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumPurple",
+      "hex": "#9370DB",
+      "lab": { "l": 60.5, "a": 47.3, "b": -61.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumSeaGreen",
+      "hex": "#3CB371",
+      "lab": { "l": 60.8, "a": -31.3, "b": 9.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumSlateBlue",
+      "hex": "#7B68EE",
+      "lab": { "l": 58.3, "a": 27.6, "b": -63.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumSpringGreen",
+      "hex": "#00FA9A",
+      "lab": { "l": 87.6, "a": -88.2, "b": 54.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumTurquoise",
+      "hex": "#48D1CC",
+      "lab": { "l": 76.6, "a": -33.7, "b": -4.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MediumVioletRed",
+      "hex": "#C71585",
+      "lab": { "l": 46.3, "a": 65.4, "b": -19.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MidnightBlue",
+      "hex": "#191970",
+      "lab": { "l": 11.9, "a": 47.1, "b": -64.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MintCream",
+      "hex": "#F5FFFA",
+      "lab": { "l": 98.4, "a": -1.5, "b": 1.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "MistyRose",
+      "hex": "#FFE4E1",
+      "lab": { "l": 91.8, "a": 4.2, "b": 8.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Moccasin",
+      "hex": "#FFE4B5",
+      "lab": { "l": 93.7, "a": 5.8, "b": 25.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "NavajoWhite",
+      "hex": "#FFDEAD",
+      "lab": { "l": 91.9, "a": 4.8, "b": 27.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Navy",
+      "hex": "#000080",
+      "lab": { "l": 12.6, "a": 43.0, "b": -66.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "OldLace",
+      "hex": "#FDF5E6",
+      "lab": { "l": 98.5, "a": 1.6, "b": 7.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Olive",
+      "hex": "#808000",
+      "lab": { "l": 53.6, "a": -27.4, "b": 65.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "OliveDrab",
+      "hex": "#6B8E23",
+      "lab": { "l": 55.1, "a": -20.2, "b": 50.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Orange",
+      "hex": "#FFA500",
+      "lab": { "l": 74.9, "a": 23.9, "b": 78.4 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "OrangeRed",
+      "hex": "#FF4500",
+      "lab": { "l": 59.6, "a": 58.4, "b": 64.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Orchid",
+      "hex": "#DA70D6",
+      "lab": { "l": 62.8, "a": 51.0, "b": -21.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PaleGoldenRod",
+      "hex": "#EEE8AA",
+      "lab": { "l": 91.7, "a": -1.6, "b": 21.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PaleGreen",
+      "hex": "#98FB98",
+      "lab": { "l": 92.1, "a": -39.5, "b": 26.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PaleTurquoise",
+      "hex": "#AFEEEE",
+      "lab": { "l": 91.4, "a": -12.5, "b": -12.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PaleVioletRed",
+      "hex": "#DB7093",
+      "lab": { "l": 65.4, "a": 37.8, "b": -4.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PapayaWhip",
+      "hex": "#FFEFD5",
+      "lab": { "l": 95.6, "a": 1.0, "b": 19.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PeachPuff",
+      "hex": "#FFDAB9",
+      "lab": { "l": 91.8, "a": 4.6, "b": 21.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Peru",
+      "hex": "#CD853F",
+      "lab": { "l": 58.3, "a": 22.6, "b": 49.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Pink",
+      "hex": "#FFC0CB",
+      "lab": { "l": 88.0, "a": 13.6, "b": -3.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Plum",
+      "hex": "#DDA0DD",
+      "lab": { "l": 75.3, "a": 26.8, "b": -19.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "PowderBlue",
+      "hex": "#B0E0E6",
+      "lab": { "l": 85.6, "a": -5.5, "b": -13.1 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Purple",
+      "hex": "#800080",
+      "lab": { "l": 29.9, "a": 58.9, "b": -36.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "RebeccaPurple",
+      "hex": "#663399",
+      "lab": { "l": 39.3, "a": 33.7, "b": -64.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Red",
+      "hex": "#FF0000",
+      "lab": { "l": 53.2, "a": 80.1, "b": 67.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "RosyBrown",
+      "hex": "#BC8F8F",
+      "lab": { "l": 68.2, "a": 12.8, "b": 5.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "RoyalBlue",
+      "hex": "#4169E1",
+      "lab": { "l": 49.4, "a": 13.8, "b": -60.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SaddleBrown",
+      "hex": "#8B4513",
+      "lab": { "l": 37.8, "a": 30.6, "b": 37.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Salmon",
+      "hex": "#FA8072",
+      "lab": { "l": 69.8, "a": 30.0, "b": 25.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SandyBrown",
+      "hex": "#F4A460",
+      "lab": { "l": 71.4, "a": 19.6, "b": 47.9 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SeaGreen",
+      "hex": "#2E8B57",
+      "lab": { "l": 58.3, "a": -36.8, "b": 21.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SeaShell",
+      "hex": "#FFF5EE",
+      "lab": { "l": 98.4, "a": -0.3, "b": 6.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Sienna",
+      "hex": "#A0522D",
+      "lab": { "l": 47.8, "a": 26.0, "b": 27.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Silver",
+      "hex": "#C0C0C0",
+      "lab": { "l": 77.0, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SkyBlue",
+      "hex": "#87CEEB",
+      "lab": { "l": 87.7, "a": -3.3, "b": -17.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SlateBlue",
+      "hex": "#6A5ACD",
+      "lab": { "l": 47.3, "a": 27.4, "b": -56.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SlateGray",
+      "hex": "#708090",
+      "lab": { "l": 54.9, "a": -1.2, "b": -6.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SlateGrey",
+      "hex": "#708090",
+      "lab": { "l": 54.9, "a": -1.2, "b": -6.7 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Snow",
+      "hex": "#FFFAFA",
+      "lab": { "l": 99.7, "a": -0.3, "b": 0.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SpringGreen",
+      "hex": "#00FF7F",
+      "lab": { "l": 88.6, "a": -90.9, "b": 58.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "SteelBlue",
+      "hex": "#4682B4",
+      "lab": { "l": 59.6, "a": -5.5, "b": -26.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Tan",
+      "hex": "#D2B48C",
+      "lab": { "l": 68.7, "a": 2.5, "b": 30.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Teal",
+      "hex": "#008080",
+      "lab": { "l": 48.0, "a": -28.9, "b": -7.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Thistle",
+      "hex": "#D8BFD8",
+      "lab": { "l": 82.2, "a": 4.0, "b": -8.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Tomato",
+      "hex": "#FF6347",
+      "lab": { "l": 62.1, "a": 46.2, "b": 40.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Turquoise",
+      "hex": "#40E0D0",
+      "lab": { "l": 77.0, "a": -43.1, "b": -7.3 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Violet",
+      "hex": "#EE82EE",
+      "lab": { "l": 78.0, "a": 43.0, "b": -43.2 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Wheat",
+      "hex": "#F5DEB3",
+      "lab": { "l": 89.0, "a": 2.3, "b": 23.8 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "lab": { "l": 100.0, "a": 0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "WhiteSmoke",
+      "hex": "#F5F5F5",
+      "lab": { "l": 96.5, "a": -0.0, "b": 0.0 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "Yellow",
+      "hex": "#FFFF00",
+      "lab": { "l": 97.1, "a": -21.6, "b": 94.5 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    },
+    {
+      "name": "YellowGreen",
+      "hex": "#9ACD32",
+      "lab": { "l": 76.5, "a": -38.0, "b": 66.6 },
+      "category": "Web Standard",
+      "source": "CSS4/X11"
+    }
+  ]
+}
